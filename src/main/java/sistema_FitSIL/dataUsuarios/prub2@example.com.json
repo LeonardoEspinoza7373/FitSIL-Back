@@ -1,0 +1,12 @@
+{
+  "id" : null,
+  "nombre" : "Prueba3",
+  "apellido" : "Apellido",
+  "telefono" : null,
+  "correo" : "prub2@example.com",
+  "usuario" : "pru3",
+  "contrasenia" : "$2a$10$eCMH6ZQqtr.6DQqGKvf4beZ/N70GmVwONk1nwLSz36bksYQEgD9/.",
+  "rol" : "USUARIO",
+  "peso" : 50.0,
+  "altura" : 1.65
+}
